@@ -24,8 +24,6 @@ rustup update
 ```
 
 ## Examples
-[001 hello_rust](001 hello_rust/README.md)
-
-[002 hello_cargo](002 hello_cargo/README.md)
-
-[003 guessing game](003 guessing game/README.md)
+- [001 hello_rust](001%20hello_rust/README.md)
+- [002 hello_cargo](002%20hello_cargo/README.md)
+- [003 guessing game](003%20guessing%20game/README.md)
