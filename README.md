@@ -22,3 +22,10 @@ rustc --version
 # Update Rust:
 rustup update
 ```
+
+## Examples
+[001 hello_rust](001 hello_rust/README.md)
+
+[002 hello_cargo](002 hello_cargo/README.md)
+
+[003 guessing game](003 guessing game/README.md)
